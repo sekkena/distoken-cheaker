@@ -1,0 +1,31 @@
+{
+  "name": "distoken-cheaker",
+  "version": "1.0.0",
+  "description": "discord tokens checker ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sekkena/distoken-cheaker.git"
+  },
+  "keywords": [
+    "tokens",
+    "discord",
+    "check",
+    "token",
+    "npm",
+    "sek2",
+    "vampire",
+    "builder",
+    "checker",
+    "token.txt"
+  ],
+  "author": "sekkena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sekkena/distoken-cheaker/issues"
+  },
+  "homepage": "https://github.com/sekkena/distoken-cheaker#readme"
+}
